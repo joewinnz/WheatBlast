@@ -1,0 +1,2128 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "24.2.0"
+  },
+  "models": {
+    "authors": {
+      "alphabet": [
+        "Chiapello et al., 2015",
+        "Farman et al., 2002",
+        "Gladieux et al., 2017",
+        "Hau et al., 2007",
+        "Islam et al., 2016",
+        "Latorre et al., 2023",
+        "Maciel et al. 2014",
+        "Peng et al., 2019",
+        "Tembo et al., 2020",
+        "Yoshida et al., 2009",
+        "Yoshida et al., 2016",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.09239800484672898,
+        0.0947247311515695,
+        0.08605334833262683,
+        0.07622387971252277,
+        0.0854327684815365,
+        0.11566290400317941,
+        0.10432745333197911,
+        0.08613693445803046,
+        0.07314773473000726,
+        0.09468357492101445,
+        0.09120866603080474
+      ],
+      "rate": 13.837992409465587,
+      "transition_matrix": [
+        [
+          0.0,
+          1.1311075707340381,
+          0.9792958406591341,
+          0.9706333689039839,
+          0.9108667941944927,
+          1.4328175745698415,
+          0.950486587651083,
+          0.9092087937809814,
+          0.9092237851413157,
+          1.1315464870432395,
+          0.9439099389320935
+        ],
+        [
+          1.1311075707340381,
+          0.0,
+          0.9434984089012793,
+          0.9357081961336341,
+          0.8962167261129428,
+          0.9113435049476377,
+          0.9099917169981522,
+          0.8956175765889166,
+          0.8961200077647656,
+          1.6442710652726813,
+          0.9102450083250352
+        ],
+        [
+          0.9792958406591341,
+          0.9434984089012793,
+          0.0,
+          0.9973956769102545,
+          0.9432317511923192,
+          1.7541729374484045,
+          1.1471646513280094,
+          0.9372532273260258,
+          0.9407648215718538,
+          0.9435794875431017,
+          0.9503303030472983
+        ],
+        [
+          0.9706333689039839,
+          0.9357081961336341,
+          0.9973956769102545,
+          0.0,
+          0.9276015511942947,
+          1.9151666775817124,
+          2.0903555521559336,
+          0.9250571075750579,
+          0.9238650213901107,
+          0.935783958401587,
+          1.4432770137261284
+        ],
+        [
+          0.9108667941944927,
+          0.8962167261129428,
+          0.9432317511923192,
+          0.9276015511942947,
+          0.0,
+          1.8643681356492343,
+          0.9104424646834931,
+          0.8930614497499293,
+          0.8935314191664332,
+          0.8962994412760783,
+          0.9013639303230829
+        ],
+        [
+          1.4328175745698415,
+          0.9113435049476377,
+          1.7541729374484045,
+          1.9151666775817124,
+          1.8643681356492343,
+          0.0,
+          1.7981628461844716,
+          1.3164353102696342,
+          2.1712805333809477,
+          0.9114705972595283,
+          0.9293821921964852
+        ],
+        [
+          0.950486587651083,
+          0.9099917169981522,
+          1.1471646513280094,
+          2.0903555521559336,
+          0.9104424646834931,
+          1.7981628461844716,
+          0.0,
+          0.9048014301959324,
+          0.912114141357006,
+          0.9100966284233979,
+          0.9305874616497464
+        ],
+        [
+          0.9092087937809814,
+          0.8956175765889166,
+          0.9372532273260258,
+          0.9250571075750579,
+          0.8930614497499293,
+          1.3164353102696342,
+          0.9048014301959324,
+          0.0,
+          0.8932221499269409,
+          0.8957002991814557,
+          0.9005789222008859
+        ],
+        [
+          0.9092237851413157,
+          0.8961200077647656,
+          0.9407648215718538,
+          0.9238650213901107,
+          0.8935314191664332,
+          2.1712805333809477,
+          0.912114141357006,
+          0.8932221499269409,
+          0.0,
+          0.8961912683127198,
+          0.9005900470478907
+        ],
+        [
+          1.1315464870432395,
+          1.6442710652726813,
+          0.9435794875431017,
+          0.935783958401587,
+          0.8962994412760783,
+          0.9114705972595283,
+          0.9100966284233979,
+          0.8957002991814557,
+          0.8961912683127198,
+          0.0,
+          0.9103387525391894
+        ],
+        [
+          0.9439099389320935,
+          0.9102450083250352,
+          0.9503303030472983,
+          1.4432770137261284,
+          0.9013639303230829,
+          0.9293821921964852,
+          0.9305874616497464,
+          0.9005789222008859,
+          0.9005900470478907,
+          0.9103387525391894,
+          0.0
+        ]
+      ]
+    },
+    "date": {
+      "alphabet": [
+        "1989",
+        "1990",
+        "1991",
+        "1992",
+        "1998",
+        "2000",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2012",
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.05537210999128925,
+        0.06821270306095255,
+        0.05326055913834484,
+        0.050520634938025444,
+        0.05910474302803198,
+        0.05910474302803198,
+        0.0559413801275748,
+        0.056795436024199994,
+        0.05707669743084278,
+        0.056847494917538745,
+        0.058684099899079696,
+        0.057809561925859176,
+        0.058223931131917685,
+        0.06893068948641494,
+        0.06448162228755355,
+        0.06079992848966952,
+        0.058833665094672985
+      ],
+      "rate": 90.27107626580184,
+      "transition_matrix": [
+        [
+          0.0,
+          1.375380493865252,
+          0.9123341559394773,
+          0.9557045176204381,
+          0.8961993485478243,
+          0.8961993485478243,
+          0.9348329644942092,
+          0.8998164726596318,
+          0.915981350480133,
+          0.8974423866988676,
+          0.9136409528952611,
+          0.8965090526114335,
+          0.8969383415154484,
+          0.8949046593053986,
+          0.9052468269111582,
+          0.8967459799402719,
+          0.8979437928956665
+        ],
+        [
+          1.375380493865252,
+          0.0,
+          1.8928678627318558,
+          2.5277024318960164,
+          1.008929113339241,
+          1.0089291133392404,
+          1.5145344260068312,
+          1.3902534149740577,
+          1.0894451096038718,
+          1.0654819983594084,
+          1.0284040110433847,
+          1.0072724416788483,
+          1.02990989293662,
+          1.3758048409593862,
+          1.0384050789158863,
+          1.0128321391667088,
+          1.0137085331293503
+        ],
+        [
+          0.9123341559394773,
+          1.8928678627318558,
+          0.0,
+          1.1044988439993846,
+          0.8966319069791164,
+          0.8966319069791164,
+          0.9317828502571012,
+          0.8965689275401232,
+          0.9105074466459934,
+          0.8979015791637526,
+          0.952135487864445,
+          0.8969821867948775,
+          0.9014906666016784,
+          0.9186602162203602,
+          1.1619729590926657,
+          0.9056358942948308,
+          0.9062106980540396
+        ],
+        [
+          0.9557045176204381,
+          2.5277024318960164,
+          1.1044988439993846,
+          0.0,
+          0.9309710379234015,
+          0.9309710379234013,
+          0.9678629020986483,
+          0.9325791898324817,
+          1.3146878129184671,
+          0.9312892938182473,
+          0.946490613025383,
+          0.9304104593710945,
+          0.930679403867753,
+          0.938207546964288,
+          0.9427431897694217,
+          0.9324400434764962,
+          0.9322435556749268
+        ],
+        [
+          0.8961993485478243,
+          1.008929113339241,
+          0.8966319069791164,
+          0.9309710379234015,
+          0.0,
+          1.7089967968115942,
+          0.9218461281152455,
+          0.881903475453852,
+          0.8956064291829784,
+          1.1171414479171518,
+          0.8999927446623638,
+          0.8815661549662254,
+          0.8803557988737247,
+          0.8744834186612861,
+          0.8892675395499552,
+          0.8808803732950654,
+          0.8821366837500003
+        ],
+        [
+          0.8961993485478243,
+          1.0089291133392404,
+          0.8966319069791164,
+          0.9309710379234013,
+          1.7089967968115942,
+          0.0,
+          0.9218461281152445,
+          0.881903475453852,
+          0.8956064291829782,
+          1.1171414479171597,
+          0.8999927446623638,
+          0.8815661549662254,
+          0.8803557988737247,
+          0.8744834186612861,
+          0.8892675395499552,
+          0.8808803732950654,
+          0.8821366837500003
+        ],
+        [
+          0.9348329644942092,
+          1.5145344260068312,
+          0.9317828502571012,
+          0.9678629020986483,
+          0.9218461281152455,
+          0.9218461281152445,
+          0.0,
+          1.7190466217388254,
+          0.932190865846011,
+          1.551422938177725,
+          0.9343864205160622,
+          0.9168412184571217,
+          0.9168495228605141,
+          0.9188880333112479,
+          0.9278498945610704,
+          0.9180632722460872,
+          0.9184805102819205
+        ],
+        [
+          0.8998164726596318,
+          1.3902534149740577,
+          0.8965689275401232,
+          0.9325791898324817,
+          0.881903475453852,
+          0.881903475453852,
+          1.7190466217388254,
+          0.0,
+          0.8968659259388279,
+          0.8862829408682633,
+          0.8998493884878714,
+          0.8823001643470431,
+          0.8812628289082628,
+          0.8762076857972845,
+          0.8891110099283512,
+          0.8816920521788568,
+          0.8829108860051805
+        ],
+        [
+          0.915981350480133,
+          1.0894451096038718,
+          0.9105074466459934,
+          1.3146878129184671,
+          0.8956064291829784,
+          0.8956064291829782,
+          0.932190865846011,
+          0.8968659259388279,
+          0.0,
+          0.8966083169815112,
+          0.9136022607586538,
+          0.8958868943036337,
+          0.8958480835246476,
+          0.8920958933726707,
+          0.904758694071885,
+          0.8961041802705997,
+          0.8972354155237052
+        ],
+        [
+          0.8974423866988676,
+          1.0654819983594084,
+          0.8979015791637526,
+          0.9312892938182473,
+          1.1171414479171518,
+          1.1171414479171597,
+          1.551422938177725,
+          0.8862829408682633,
+          0.8966083169815112,
+          0.0,
+          0.9003615899184514,
+          0.882653457158385,
+          0.8817280169339625,
+          0.876367339559075,
+          0.8904276324585559,
+          0.8820806672717848,
+          0.883338202230206
+        ],
+        [
+          0.9136409528952611,
+          1.0284040110433847,
+          0.952135487864445,
+          0.946490613025383,
+          0.8999927446623638,
+          0.8999927446623638,
+          0.9343864205160622,
+          0.8998493884878714,
+          0.9136022607586538,
+          0.9003615899184514,
+          0.0,
+          0.9000574467948599,
+          0.8995634572264508,
+          0.896756725380414,
+          1.3696675427537006,
+          0.9018398458909389,
+          0.9186222308295627
+        ],
+        [
+          0.8965090526114335,
+          1.0072724416788483,
+          0.8969821867948775,
+          0.9304104593710945,
+          0.8815661549662254,
+          0.8815661549662254,
+          0.9168412184571217,
+          0.8823001643470431,
+          0.8958868943036337,
+          0.882653457158385,
+          0.9000574467948599,
+          0.0,
+          1.1817245615683192,
+          1.132619215878793,
+          0.8897945335198615,
+          0.881348147107286,
+          0.8826127302333925
+        ],
+        [
+          0.8969383415154484,
+          1.02990989293662,
+          0.9014906666016784,
+          0.930679403867753,
+          0.8803557988737247,
+          0.8803557988737247,
+          0.9168495228605141,
+          0.8812628289082628,
+          0.8958480835246476,
+          0.8817280169339625,
+          0.8995634572264508,
+          1.1817245615683192,
+          0.0,
+          5.033369468215891,
+          1.334411589044037,
+          0.8803612402216848,
+          1.4771013758127718
+        ],
+        [
+          0.8949046593053986,
+          1.3758048409593862,
+          0.9186602162203602,
+          0.938207546964288,
+          0.8744834186612861,
+          0.8744834186612861,
+          0.9188880333112479,
+          0.8762076857972845,
+          0.8920958933726707,
+          0.876367339559075,
+          0.896756725380414,
+          1.132619215878793,
+          5.033369468215891,
+          0.0,
+          1.1766072840819308,
+          0.8748180598933795,
+          1.3426028427857852
+        ],
+        [
+          0.9052468269111582,
+          1.0384050789158863,
+          1.1619729590926657,
+          0.9427431897694217,
+          0.8892675395499552,
+          0.8892675395499552,
+          0.9278498945610704,
+          0.8891110099283512,
+          0.904758694071885,
+          0.8904276324585559,
+          1.3696675427537006,
+          0.8897945335198615,
+          1.334411589044037,
+          1.1766072840819308,
+          0.0,
+          2.216941545219951,
+          2.2270317531987
+        ],
+        [
+          0.8967459799402719,
+          1.0128321391667088,
+          0.9056358942948308,
+          0.9324400434764962,
+          0.8808803732950654,
+          0.8808803732950654,
+          0.9180632722460872,
+          0.8816920521788568,
+          0.8961041802705997,
+          0.8820806672717848,
+          0.9018398458909389,
+          0.881348147107286,
+          0.8803612402216848,
+          0.8748180598933795,
+          2.216941545219951,
+          0.0,
+          2.1575350488727665
+        ],
+        [
+          0.8979437928956665,
+          1.0137085331293503,
+          0.9062106980540396,
+          0.9322435556749268,
+          0.8821366837500003,
+          0.8821366837500003,
+          0.9184805102819205,
+          0.8829108860051805,
+          0.8972354155237052,
+          0.883338202230206,
+          0.9186222308295627,
+          0.8826127302333925,
+          1.4771013758127718,
+          1.3426028427857852,
+          2.2270317531987,
+          2.1575350488727665,
+          0.0
+        ]
+      ]
+    },
+    "group": {
+      "alphabet": [
+        "B71",
+        "Other",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.21834626545315186,
+        0.7816537345468482
+      ],
+      "rate": 0.922416191112841,
+      "transition_matrix": [
+        [
+          0.0,
+          2.929610131700356
+        ],
+        [
+          2.929610131700356,
+          0.0
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "B71": {
+      "authors": "Peng et al., 2019",
+      "collector": "Unknown",
+      "date": "2012",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BR29": {
+      "authors": "Chiapello et al., 2015",
+      "collector": "Unknown",
+      "date": "1989",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "BTBa-B1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTBa-B2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGP-6c-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGP-6c-7": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGP-6e": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGP1-b": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGS-6b-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGS-6e": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGS-6f": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGS-6g": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTGS-6h": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-1a": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-11": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-12": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-16": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-18": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4-6": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-4c": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTJP-9c": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMB-50": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-182-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1827-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1827-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1828-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1828-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1830-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1830-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1831-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-184-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1843-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1845-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1845-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-186-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-186-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-187-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-189-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-189-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-191-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-1910-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-192-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-193-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-194-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-194-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-195-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-195-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-196-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-197-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-198-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-199-3": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-199-7": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-202-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-202-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-203-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-204-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-204-9": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-206-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-208-6": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-2801-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-2801-5": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-2807-4": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-2g": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-S13-1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMP-S13-2": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMaU-10a": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMaU-10b": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "BTMaV-10a": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "Br10": {
+      "authors": "Yoshida et al., 2009",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br117.1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1992",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br127.1": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1992",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br13": {
+      "authors": "Farman et al., 2002",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br130.8": {
+      "authors": "Gladieux et al., 2017",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br15": {
+      "authors": "Farman et al., 2002",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br3": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br32": {
+      "authors": "Chiapello et al., 2015",
+      "collector": "Unknown",
+      "date": "1991",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br46": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br49": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br50": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br58": {
+      "authors": "Yoshida et al., 2016",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br62": {
+      "authors": "Gladieux et al., 2017",
+      "collector": "Unknown",
+      "date": "1991",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "Br8": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000000": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1992",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000001": {
+      "authors": "Gladieux et al., 2017",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000002": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000003": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000004": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1992",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000005": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000006": {
+      "authors": "Chiapello et al., 2015",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000007": {
+      "authors": "Yoshida et al., 2009",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000008": {
+      "authors": "Farman et al., 2002",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000009": {
+      "authors": "Yoshida et al., 2016",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000010": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000011": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000012": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2006",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000013": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000014": {
+      "authors": "Hau et al., 2007",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000015": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000016": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2005",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000017": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2006",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000018": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000019": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2008",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000020": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2000",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000021": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000022": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "1990",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000023": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000024": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000025": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000026": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000027": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000028": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000029": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000030": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000031": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000032": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000033": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000034": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000035": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000036": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000037": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000038": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000039": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2009",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000040": {
+      "authors": "Gladieux et al., 2017",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000041": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000042": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000043": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000044": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000045": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000046": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000047": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000048": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000049": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000050": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000051": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000052": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000053": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000054": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000055": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000056": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000057": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000058": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000059": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000060": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000061": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000062": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000063": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000064": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000065": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000066": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000067": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000068": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000069": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000070": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000071": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000072": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000073": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000074": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000075": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000076": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000077": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000078": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000079": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000080": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000081": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000082": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000083": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000084": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000085": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000086": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000087": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000088": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000089": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000090": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000091": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000092": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000093": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000094": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000095": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000096": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000097": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000098": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000099": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000100": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000101": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000102": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2017",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000103": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000104": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000105": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000106": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000107": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000108": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "NODE_0000109": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "PGPA": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "1998",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY0925": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2009",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY36.1": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2007",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY5003": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2005",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY5010": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2005",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY5033": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2005",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY6017": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2006",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY6025": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2006",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY6045": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2006",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PY86.1": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2008",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "PgKY": {
+      "authors": "Maciel et al. 2014",
+      "collector": "Unknown",
+      "date": "2000",
+      "group": "Other",
+      "host": "Triticum aestivum"
+    },
+    "ZMW18_06": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW18_08": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW18_10": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW18_11": {
+      "authors": "Tembo et al., 2020",
+      "collector": "Unknown",
+      "date": "2018",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW19_09": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW19_13": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW19_17": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2019",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW20_03": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW20_04": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW20_07": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW20_14": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW20_15": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "ZMW20_16": {
+      "authors": "Latorre et al., 2023",
+      "collector": "Unknown",
+      "date": "2020",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "s12_transcripts": {
+      "authors": "Islam et al., 2016",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    },
+    "s5_transcripts": {
+      "authors": "Islam et al., 2016",
+      "collector": "Unknown",
+      "date": "2016",
+      "group": "B71",
+      "host": "Triticum aestivum"
+    }
+  }
+}
