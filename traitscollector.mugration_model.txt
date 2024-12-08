@@ -1,0 +1,21 @@
+Map from character to field name
+A:	Batiseba Tembo
+B:	Unknown
+C:	?
+
+
+Substitution rate (mu): 84.07293
+
+Equilibrium frequencies (pi_i):
+  A: 0.6463
+  B: 0.3537
+
+Symmetrized rates from j->i (W_ij):
+	A	B
+  A	0	2.1872
+  B	2.1872	0
+
+Actual rates from j->i (Q_ij):
+	A	B
+  A	0	1.4135
+  B	0.7737	0

@@ -1,0 +1,538 @@
+{
+  "alignment": "/hpc-home/winj/data/nextstrain/wheatblast/wheatblast_alignment.fa",
+  "generated_by": {
+    "program": "augur",
+    "version": "24.2.0"
+  },
+  "input_tree": "/hpc-home/winj/data/nextstrain/wheatblast/wheatblast_tree.nwk",
+  "nodes": {
+    "B71": {
+      "branch_length": 0.0
+    },
+    "BTBa-B1": {
+      "branch_length": 0.0
+    },
+    "BTBa-B2": {
+      "branch_length": 0.0
+    },
+    "BTGP-6c-4": {
+      "branch_length": 0.0
+    },
+    "BTGP-6c-7": {
+      "branch_length": 0.0
+    },
+    "BTGP-6e": {
+      "branch_length": 0.00055
+    },
+    "BTGP1-b": {
+      "branch_length": 0.0
+    },
+    "BTGS-6b-2": {
+      "branch_length": 0.0
+    },
+    "BTGS-6e": {
+      "branch_length": 0.0
+    },
+    "BTGS-6f": {
+      "branch_length": 0.0
+    },
+    "BTGS-6g": {
+      "branch_length": 0.0
+    },
+    "BTGS-6h": {
+      "branch_length": 0.0
+    },
+    "BTJP-1a": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-1": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-11": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-12": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-16": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-18": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-3": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-4": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-5": {
+      "branch_length": 0.0
+    },
+    "BTJP-4-6": {
+      "branch_length": 0.0
+    },
+    "BTJP-4c": {
+      "branch_length": 0.0
+    },
+    "BTJP-9c": {
+      "branch_length": 0.0
+    },
+    "BTMB-50": {
+      "branch_length": 0.0
+    },
+    "BTMP-182-5": {
+      "branch_length": 0.0
+    },
+    "BTMP-1827-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-1827-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-1828-4": {
+      "branch_length": 0.0
+    },
+    "BTMP-1828-5": {
+      "branch_length": 0.0
+    },
+    "BTMP-1830-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-1830-4": {
+      "branch_length": 0.0
+    },
+    "BTMP-184-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-1843-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-1845-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-1845-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-186-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-186-4": {
+      "branch_length": 0.0
+    },
+    "BTMP-187-3": {
+      "branch_length": 0.00055
+    },
+    "BTMP-189-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-189-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-191-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-1910-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-192-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-193-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-194-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-194-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-195-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-195-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-196-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-197-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-198-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-199-3": {
+      "branch_length": 0.0
+    },
+    "BTMP-199-7": {
+      "branch_length": 0.0
+    },
+    "BTMP-202-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-202-4": {
+      "branch_length": 0.00055
+    },
+    "BTMP-203-5": {
+      "branch_length": 0.0
+    },
+    "BTMP-204-2": {
+      "branch_length": 0.0
+    },
+    "BTMP-204-9": {
+      "branch_length": 0.0
+    },
+    "BTMP-206-5": {
+      "branch_length": 0.0
+    },
+    "BTMP-208-6": {
+      "branch_length": 0.0
+    },
+    "BTMP-2801-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-2801-5": {
+      "branch_length": 0.0
+    },
+    "BTMP-2807-4": {
+      "branch_length": 0.0
+    },
+    "BTMP-2g": {
+      "branch_length": 0.0
+    },
+    "BTMP-S13-1": {
+      "branch_length": 0.0
+    },
+    "BTMP-S13-2": {
+      "branch_length": 0.0
+    },
+    "BTMaU-10a": {
+      "branch_length": 0.0
+    },
+    "BTMaU-10b": {
+      "branch_length": 0.0
+    },
+    "BTMaV-10a": {
+      "branch_length": 0.0
+    },
+    "Br10": {
+      "branch_length": 0.0
+    },
+    "Br117.1": {
+      "branch_length": 0.00054
+    },
+    "Br127.1": {
+      "branch_length": 0.00054
+    },
+    "Br13": {
+      "branch_length": 0.0
+    },
+    "Br130.8": {
+      "branch_length": 0.06588
+    },
+    "Br15": {
+      "branch_length": 0.0
+    },
+    "Br3": {
+      "branch_length": 0.00053
+    },
+    "Br32": {
+      "branch_length": 0.00055
+    },
+    "Br46": {
+      "branch_length": 0.00055
+    },
+    "Br49": {
+      "branch_length": 0.00054
+    },
+    "Br50": {
+      "branch_length": 0.00055
+    },
+    "Br58": {
+      "branch_length": 0.21066
+    },
+    "Br62": {
+      "branch_length": 0.00055
+    },
+    "Br8": {
+      "branch_length": 0.01205
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001
+    },
+    "NODE_0000001": {
+      "branch_length": 0.00055,
+      "confidence": 0.988
+    },
+    "NODE_0000002": {
+      "branch_length": 0.00055
+    },
+    "NODE_0000003": {
+      "branch_length": 0.00055,
+      "confidence": 0.844
+    },
+    "NODE_0000004": {
+      "branch_length": 0.00055
+    },
+    "NODE_0000005": {
+      "branch_length": 0.00055,
+      "confidence": 0.792
+    },
+    "NODE_0000006": {
+      "branch_length": 0.00054,
+      "confidence": 0.997
+    },
+    "NODE_0000007": {
+      "branch_length": 0.12197,
+      "confidence": 0.868
+    },
+    "NODE_0000008": {
+      "branch_length": 0.58688,
+      "confidence": 0.999
+    },
+    "NODE_0000009": {
+      "branch_length": 0.73277,
+      "confidence": 1.0
+    },
+    "NODE_0000010": {
+      "branch_length": 0.00053
+    },
+    "NODE_0000011": {
+      "branch_length": 0.35872,
+      "confidence": 1.0
+    },
+    "NODE_0000012": {
+      "branch_length": 0.12652,
+      "confidence": 0.846
+    },
+    "NODE_0000013": {
+      "branch_length": 0.32313,
+      "confidence": 1.0
+    },
+    "NODE_0000014": {
+      "branch_length": 0.00055,
+      "confidence": 0.294
+    },
+    "NODE_0000015": {
+      "branch_length": 0.12486,
+      "confidence": 0.895
+    },
+    "NODE_0000016": {
+      "branch_length": 0.12363,
+      "confidence": 0.897
+    },
+    "NODE_0000017": {
+      "branch_length": 0.02389,
+      "confidence": 0.784
+    },
+    "NODE_0000018": {
+      "branch_length": 0.0396,
+      "confidence": 0.842
+    },
+    "NODE_0000019": {
+      "branch_length": 0.05007,
+      "confidence": 0.733
+    },
+    "NODE_0000020": {
+      "branch_length": 0.13514,
+      "confidence": 0.993
+    },
+    "NODE_0000021": {
+      "branch_length": 0.00054,
+      "confidence": 0.929
+    },
+    "NODE_0000022": {
+      "branch_length": 0.00054,
+      "confidence": 0.658
+    },
+    "NODE_0000023": {
+      "branch_length": 0.05306,
+      "confidence": 0.468
+    },
+    "NODE_0000024": {
+      "branch_length": 0.16049,
+      "confidence": 0.893
+    },
+    "NODE_0000025": {
+      "branch_length": 0.15459,
+      "confidence": 0.982
+    },
+    "NODE_0000026": {
+      "branch_length": 0.0459,
+      "confidence": 0.29
+    },
+    "NODE_0000027": {
+      "branch_length": 0.12688,
+      "confidence": 0.997
+    },
+    "NODE_0000028": {
+      "branch_length": 0.01412,
+      "confidence": 0.642
+    },
+    "NODE_0000029": {
+      "branch_length": 0.00055
+    },
+    "NODE_0000030": {
+      "branch_length": 0.00055,
+      "confidence": 0.875
+    },
+    "NODE_0000031": {
+      "branch_length": 0.00055,
+      "confidence": 0.653
+    },
+    "NODE_0000032": {
+      "branch_length": 0.00055,
+      "confidence": 0.0
+    },
+    "NODE_0000033": {
+      "branch_length": 0.00055
+    },
+    "NODE_0000034": {
+      "branch_length": 0.00054,
+      "confidence": 0.715
+    },
+    "NODE_0000035": {
+      "branch_length": 0.00054,
+      "confidence": 1.0
+    },
+    "NODE_0000036": {
+      "branch_length": 0.00055
+    },
+    "PGPA": {
+      "branch_length": 0.0
+    },
+    "PS_1": {
+      "branch_length": 0.0
+    },
+    "PS_2": {
+      "branch_length": 0.0
+    },
+    "PY0925": {
+      "branch_length": 0.00055
+    },
+    "PY36.1": {
+      "branch_length": 0.2805
+    },
+    "PY5003": {
+      "branch_length": 0.01388
+    },
+    "PY5010": {
+      "branch_length": 0.12467
+    },
+    "PY5033": {
+      "branch_length": 0.04957
+    },
+    "PY6017": {
+      "branch_length": 0.05625
+    },
+    "PY6025": {
+      "branch_length": 0.00054
+    },
+    "PY6045": {
+      "branch_length": 0.00055
+    },
+    "PY86.1": {
+      "branch_length": 0.02473
+    },
+    "PgKY": {
+      "branch_length": 0.0
+    },
+    "ZMW18_06": {
+      "branch_length": 0.0
+    },
+    "ZMW18_08": {
+      "branch_length": 0.0
+    },
+    "ZMW18_10": {
+      "branch_length": 0.0
+    },
+    "ZMW18_11": {
+      "branch_length": 0.0
+    },
+    "ZMW19_09": {
+      "branch_length": 0.0
+    },
+    "ZMW19_13": {
+      "branch_length": 0.0
+    },
+    "ZMW19_17": {
+      "branch_length": 0.0
+    },
+    "ZMW20_03": {
+      "branch_length": 0.0
+    },
+    "ZMW20_04": {
+      "branch_length": 0.0
+    },
+    "ZMW20_07": {
+      "branch_length": 0.0
+    },
+    "ZMW20_14": {
+      "branch_length": 0.0
+    },
+    "ZMW20_15": {
+      "branch_length": 0.0
+    },
+    "ZMW20_16": {
+      "branch_length": 0.0
+    },
+    "ZMW23_13": {
+      "branch_length": 0.0
+    },
+    "ZMW23_14": {
+      "branch_length": 0.0
+    },
+    "ZMW23_15": {
+      "branch_length": 0.0
+    },
+    "ZMW23_16": {
+      "branch_length": 0.0
+    },
+    "ZMW23_4": {
+      "branch_length": 0.0
+    },
+    "ZMW23_47": {
+      "branch_length": 0.0
+    },
+    "ZMW23_56": {
+      "branch_length": 0.0
+    },
+    "ZMW23_6": {
+      "branch_length": 0.0
+    },
+    "ZMW23_65": {
+      "branch_length": 0.0
+    },
+    "ZMW23_7": {
+      "branch_length": 0.01199
+    },
+    "ZMW23_72": {
+      "branch_length": 0.0
+    },
+    "ZMW23_77": {
+      "branch_length": 0.0
+    },
+    "ZMW23_8": {
+      "branch_length": 0.0
+    },
+    "ZMW23_83": {
+      "branch_length": 0.0
+    },
+    "ZMW23_9": {
+      "branch_length": 0.01234
+    },
+    "ZMW23_92": {
+      "branch_length": 0.0
+    },
+    "ZMW23_95": {
+      "branch_length": 0.0
+    },
+    "s12_transcripts": {
+      "branch_length": 0.00055
+    },
+    "s5_transcripts": {
+      "branch_length": 0.00055
+    }
+  }
+}
