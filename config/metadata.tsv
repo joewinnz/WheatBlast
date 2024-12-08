@@ -6,7 +6,6 @@ Br127.1	Magnaporthe oryzae	1992	South America	Brazil	Unknown	Triticum aestivum	O
 Br13	Magnaporthe oryzae	1990	South America	Brazil	Unknown	Triticum aestivum	Other	Unknown	"Farman et al., 2002"	Analysis of the Structure of the AVR1-CO39 Avirulence Locus in Virulent Rice-Infecting Isolates of Magnaporthe grisea	MPMI	https://doi.org/10.1094/MPMI.2002.15.1.6
 Br130.8	Magnaporthe oryzae	1990	South America	Brazil	Mato Grosso do Sul	Triticum aestivum	Other	Unknown	"Gladieux et al., 2017"	Gene Flow between Divergent Cereal- and Grass-Specific Lineages of the Rice Blast Fungus�Magnaporthe oryzae	mBio	https://doi.org/10.1128/mbio.01219-17
 Br15	Magnaporthe oryzae	1990	South America	Brazil	Unknown	Triticum aestivum	Other	Unknown	"Farman et al., 2002"	Analysis of the Structure of the AVR1-CO39 Avirulence Locus in Virulent Rice-Infecting Isolates of Magnaporthe grisea	MPMI	https://doi.org/10.1094/MPMI.2002.15.1.6
-BR29	Magnaporthe oryzae	1989	South America	Brazil	Unknown	Triticum aestivum	Other	Unknown	"Chiapello et al., 2015"	Deciphering Genome Content and Evolutionary Relationships of Isolates from the Fungus Magnaporthe oryzae Attacking Different Host Plants	Genome Biology and Evolution	https://doi.org/10.1093/gbe/evv187
 Br3	Magnaporthe oryzae	1990	South America	Brazil	Londrina	Triticum aestivum	Other	Unknown	"Hau et al., 2007"	Identification of two genes for resistance to Triticum isolates of Magnaporthe oryzae in wheat	Genome	https://doi.org/10.1139/G07-094
 Br32	Magnaporthe oryzae	1991	South America	Brazil	Unknown	Triticum aestivum	Other	Unknown	"Chiapello et al., 2015"	Deciphering Genome Content and Evolutionary Relationships of Isolates from the Fungus Magnaporthe oryzae Attacking Different Host Plants	Genome Biology and Evolution	https://doi.org/10.1093/gbe/evv187
 Br46	Magnaporthe oryzae	1990	South America	Brazil	Unknown	Triticum aestivum	Other	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
@@ -51,7 +50,6 @@ BTMP-1828-4	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B
 BTMP-1828-5	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 BTMP-1830-1	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 BTMP-1830-4	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
-BTMP-1831-5	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 BTMP-184-3	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 BTMP-1843-1	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 BTMP-1845-1	Magnaporthe oryzae	2018	Asia	Bangladesh	Meherpur	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
@@ -111,3 +109,22 @@ ZMW20_07	Magnaporthe oryzae	2020	Africa	Zambia	Mpongwe	Triticum aestivum	B71	Unk
 ZMW20_14	Magnaporthe oryzae	2020	Africa	Zambia	Mt. Makulu	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 ZMW20_15	Magnaporthe oryzae	2020	Africa	Zambia	Mpongwe	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
 ZMW20_16	Magnaporthe oryzae	2020	Africa	Zambia	Mpika	Triticum aestivum	B71	Unknown	"Latorre et al., 2023"	Genomic surveillance uncovers a pandemic clonal lineage of the wheat blast fungus	PLOS Biology	https://doi.org/10.1371/journal.pbio.3002052
+PS_1	Magnaporthe oryzae	2021	South America	Paraguay	Asunción	Triticum aestivum	B71	Unknown	Unpublished	Unpublished	Unpublished	Unpublished
+PS_2	Magnaporthe oryzae	2021	South America	Paraguay	Asunción	Triticum aestivum	B71	Unknown	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_13	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_14	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_15	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_16	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_4	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_6	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_7	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_8	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_9	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_47	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_56	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_65	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_72	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_77	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_83	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_92	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
+ZMW23_95	Magnaporthe oryzae	2023	Africa	Zambia	Mpika	Triticum aestivum	B71	Batiseba Tembo	Unpublished	Unpublished	Unpublished	Unpublished
